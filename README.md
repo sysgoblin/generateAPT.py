@@ -2,7 +2,7 @@
 > For when you need someone to point the finger at.
 
 Fell for a phish? User suffered business email compromise? Someone run "moreram.exe"?  
-If everyone is looking at you and there ain't no excuses, its time to point the finger at an **ATP**!
+If everyone is looking at you and there ain't no excuses, its time to point the finger at an **APT**!
 
 Simply run `generateAPT.py` to be INSTANTLY provided with a genuine looking APT name you can throw in your CISO's face to distract them while you prepare your resume.
 
